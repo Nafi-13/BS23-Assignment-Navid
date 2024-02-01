@@ -11,6 +11,7 @@ Steps to run :
 - Run it as Spring Application.
 - MySQL was used as the database for this project. (Installation of MySql is Required)
 - The local port of MySql was 3306 in my case.
+- In MySQL the name of my schema was 'task_management'
 - Used Postman to verify the apis.
 
 API ENDPOINTS & THEIR DESCRIPTIONS
